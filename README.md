@@ -29,7 +29,7 @@ Some of the metrics will not be displayed if the monitoring level is set to DEFA
 2. Execute _aws_msk_metrics_yaml_generator.py_ on your local machine and respond to following prompts to provide inputs
 -   MSK provisioned cluster name: _Your cluster name_
 -   MSK provisioned cluster region: _Your MSK cluster region_
--   CloudWach dashboard name: _Name of the CloudWatch dashboard_
+-   CloudWatch dashboard name: _Name of the CloudWatch dashboard_
 -   Number of brokers: _Number of brokers in the cluster to be monitored_
 -   Topics (comma seperated values): Comma seperated list of Topic names 
 
